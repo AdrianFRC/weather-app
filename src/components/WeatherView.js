@@ -27,7 +27,7 @@ import {
   customThemeComponentsTypografy,
 } from "../style";
 
-const API_KEY = "0d3891fbec466dd993a8e50ab228be4e";
+const API_KEY = "";
 
 function WeatherView(props) {
   const { Text } = Typography;

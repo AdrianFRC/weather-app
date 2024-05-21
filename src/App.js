@@ -15,4 +15,3 @@ function App() {
 }
 
 export default App;
-//https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=0d3891fbec466dd993a8e50ab228be4e
